@@ -1,8 +1,47 @@
 - name: Work History
   projects:
-    - name: Different Methods Pty Ltd
+    - name: Different Methods Pty Ltd, Director, 2016 - Now
       description: My company. I’ve made amazing things I’d love to talk about. An educational MMO for teaching reading and maths skills to children. Procedural modelling and generation tools. High performance relational data systems for real time applications.
       image: dm.png
+    - name: Unity Technologies, Senior Software Engineer, 2017 - Now
+      description: Fully remote position. Developed Visual Compositor, a virtual production tool for video with a team in Japan. Resolved Unity Editor bugs across multiple packages and teams. Led the Unity Learn team, creating educational projects to showcase Unity features.
+      image: unity.png
+    - name: Coreloop, Consultant, 2021 - 2023
+      description:  Fully remote position. Created software tools for game design of World Eternal Online with a global team. Procedural asset generation and other technical art tools.
+      image: coreloop.png
+    - name: Goodgame Studios, Technical Lead, 2015 - 2017
+      description:  Led prototype development team; implemented shaders, AI, and server support. Built tools, including a behaviour tree editor and procedural animation utilities. Procedural camera control system.
+      image: ggs.png
+    - name: West Coast Insitute of Technology, Lecturer, 2014 - 2015
+      description: Taught courses on Unity, C#, JavaScript, and Python for game development.
+      image: wcit.png
+    - name: Subversive Games Pty Ltd, Studio Lead, 2009 - 2014
+      description: Led a team for a simulation project with BHP and an MMO port from Flash to Unity3D.
+      image: subversive.png
+    - name: Recommendation Ventures, Technical Lead, 2007 - 2009
+      description: Built an experimental recommendation system and a social network platform.
+      image: rv.png
+    - name: Transmin Pty Ltd, Software Engineer, 2008 - 2009
+      description: Built an industrial control system for 30-tonne waste management robots using C, Python, and Unity3D.
+      image: transmin.png
+    - name: Interzone Games, Software Engineer, 2007 - 2008
+      description: Designed web services in Python to support an MMO with BigWorld technology.
+      image: interzone.png
+    - name: Digital Ventures, Team Lead, 2005 - 2006
+      description: Managed development for corporate web-based portals and database servers (SQL Server, Postgres & MySQL).
+      image: dv.png
+    - name: C&G Business Systems, Software Engineer, 2004 - 2005
+      description: Developed ordering system for PalmPilot using PHP and Python.
+      image: cg.png
+    - name: Maptek IT Pty Ltd, Software Engineer, 2003 - 2004
+      description: Supported application development for web-based projects using PHP, Visual Basic, and Oracle PL/SQL.
+      image: maptek.png
+    - name: Orange Computing Pty Ltd, Software Engineer, 2001 - 2002
+      description:  Worked on a SQL Server based payroll and contracting application.
+      image: orange.png
+    - name: Method + Madness Pty Ltd, Software Engineer, 2001
+      description: Developed HTML and JavaScript for a fund management web application.
+      image: mm.png
 
 
 - name: Libraries
