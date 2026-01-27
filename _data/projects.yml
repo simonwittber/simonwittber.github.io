@@ -2,7 +2,7 @@
   projects:
     - name: Different Methods Pty Ltd
       description: My company. I’ve made amazing things I’d love to talk about. An educational MMO for teaching reading and maths skills to children. Procedural modelling and generation tools. High performance relational data systems for real time applications.
-      icon: dm.png
+      image: dm.png
 
 
 - name: Libraries
