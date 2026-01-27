@@ -1,8 +1,8 @@
 ---
 layout: portfolio
 ---
-
-I have over 20 years experience in the software development industry. 
+<img src="./assets/images/projects/image10.png" style="float: right; margin-left: 10px;" />
+Hello, I'm Simon Wittber. I have over 20 years experience in the software development industry. 
 
 I’ve worked as a generalist programmer, data analyst, backend engineer and team leader. I enjoy building tools to help others in my team to perform at their best. 
 
