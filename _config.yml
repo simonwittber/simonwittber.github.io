@@ -1,0 +1,23 @@
+# This is how Jekyll knows to use this theme.
+remote_theme: tedivm/jekyll-theme-portfolio
+
+
+title: About Simon Wittber
+author: Simon Wittber
+email: simonwittber@gmail.com
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+
+# Header Links - all optional. If set these create header links.
+homepage: https://simonwittber.com
+github_username: simonwittber
+linkedin_username: simonwittber
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-remote-theme # Lets us test remote themes locally.
